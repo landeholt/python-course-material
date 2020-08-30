@@ -22,8 +22,11 @@ Efter varje övning så publiceras övningen på nytt, fast då med alla resulta
 Du skall i första början klara dig med att titta genom github hemsida, men om du även vill förändra och testa andra saker inuti filen, så kan du ladda ner allt i detta repot genom att klicka på den **gröna** knappen "Code" och välja "download zip". Sedan kommer du behöva installera jupyter, som är ett bibliotek till python.
 
 **Om du har vscode:**
+
 då kan du redan öppna dessa filer, men programmet kommer först be dig att få installera jupyter biblioteket åt dig.
+
 **Om inte:**
+
 installera jupyter biblioteket genom att i din **terminal** skriva:
 `pip3 install jupyter`
 
