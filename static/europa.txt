@@ -1,0 +1,50 @@
+Monaco,		1.98,		36371
+Vatican City,	0.44,		900
+Malta,		316,		397499
+San Marino,	61,		27730
+Netherlands,	41526,		17153100
+Belgium,	30510,		11007020
+United Kingdom,	243610,		65110000
+Germany,	357021,		81799600
+Liechtenstein,	160,		32842
+Italy,		301230,		60665625
+Switzerland,	41290,		7301994
+Luxembourg,	2586,		512000
+Andorra,	468,		68403
+Moldova Moldova,33843,		4434547
+Czech Republic,	78866,		10674947
+Denmark,	43094,		5368854
+Poland,		312685,		38625478
+Albania,	28748,		3544841
+Cyprus,		9248,		803147
+Azerbaijan,	86600,		9754830
+Slovakia,	48845,		5422366
+Portugal,	92391,		10617999
+Armenia,	29743,		3262200
+Hungary,	93030,		10075034
+France,		643801,		66996000
+Turkey,		783562,		79814874
+Serbia,		88361,		7498001
+Austria,	83858,		8169929
+Slovenia,	20273,		2048847
+Spain,		505782,		46777373
+Greece,		131940,		11606813
+Macedonia,	25713,		2054800
+Romania,	238391,		19043767
+Croatia,	56542,		4490751
+Bosnia,		51129,		3964388
+Ukraine,	603700,		45396470
+Georgia,	69700,		4960951
+Bulgaria,	110910,		7621337
+Ireland,	70280,		4581269
+Belarus,	207600,		10335382
+Montenegro,	13812,		626000
+Lithuania,	65200,		2881020
+Latvia,		64589,		1973127
+Estonia,	45226,		1294236
+Sweden,		449964,		9515744
+Finland,	338424,		5410233
+Norway,		385252,		5033675
+Russia,		17075400,	143100000
+Iceland,	103001,		320060
+Total,		26680676,	842033572
