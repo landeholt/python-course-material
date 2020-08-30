@@ -4,6 +4,8 @@
 
 Övningarna är uppdelade så att studenten skall om den vill vara någorlunda i förväg utifrån kursmaterialet. Alla gjorda övningar är publicerade på denna sida och kommer med tiden att utöka.
 
+Efter varje övning så publiceras övningen på nytt, fast då med alla resultat från de olika delarna. Detta är för att få er att själva pröva ut de olika recepten på egen hand innan övningen sker. Detta är dock helt frivilligt!
+
 ##### Övningar
 
 1. Introduktion och struktur
